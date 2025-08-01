@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGF-wjfWQCQsA/profile-displaybackgroundimage-shrink_350_1400/B56Zhm6MDzHkAY-/0/1754073190995?e=1756944000&v=beta&t=mlZs2d6VOQScIlji5MDjW5EICeGUp2cmTFJITf21YfQ">
 <h1 align="center">Hello 👋, I'm Ali Silam</h1>
 <h3 align="center">Passionate Full-stack Web Designer and Developer | Clean Code | Web Solution | WordPress Expert Helping Business and Creators Build Stunning, Functional Website Passionate about Turning Ideas into Digital Reality</h3>
 
