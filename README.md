@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQGF-wjfWQCQsA/profile-displaybackgroundimage-shrink_350_1400/B56Zhm6MDzHkAY-/0/1754073190995?e=1756944000&v=beta&t=mlZs2d6VOQScIlji5MDjW5EICeGUp2cmTFJITf21YfQ](https://media.licdn.com/dms/image/v2/D5616AQE3TU1do7uNwQ/profile-displaybackgroundimage-shrink_350_1400/B56Zh.9d8mH0AY-/0/1754476700243?e=1757548800&v=beta&t=jF2E-yPfMRbJ7kmVfiDyyy9MTypv17kOTHGcvUquOSU)">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE3TU1do7uNwQ/profile-displaybackgroundimage-shrink_350_1400/B56Zh.9d8mH0AY-/0/1754476700243?e=1757548800&v=beta&t=jF2E-yPfMRbJ7kmVfiDyyy9MTypv17kOTHGcvUquOSU">
 <h1 align="center">Hello 👋, I'm Ali Silam</h1>
 <h3 align="center">Professional Full-stack Web Designer and Developer | Clean Code | Web Solution | WordPress Expert Helping Business and Creators Build Stunning, Functional Website Passionate about Turning Ideas into Digital Reality</h3>
 
