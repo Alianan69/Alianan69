@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **ananchowdhury69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AfxYjxBhS0rGlDCJdHfd4PV0ngwgIxRE/view?usp=sharing](https://drive.google.com/file/d/1AfxYjxBhS0rGlDCJdHfd4PV0ngwgIxRE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AfxYjxBhS0rGlDCJdHfd4PV0ngwgIxRE/view?usp=sharing]([https://drive.google.com/file/d/1AfxYjxBhS0rGlDCJdHfd4PV0ngwgIxRE/view?usp=sharing](https://drive.google.com/file/d/1GDoGVkfDoYmRoNFEzdfV52LZvqXjowz8/view?usp=sharing))
 
 - ⚡ Fun fact **A Web Page Can Have Over 1000 Lines Of Code**
 
